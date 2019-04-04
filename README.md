@@ -1,5 +1,8 @@
 Bonjour!
 
+PARTICIPANTS : Olivier VERVELLE, Hakim CHEBOUB, Alexandre MOUTAPAM
+
+
 
 dans le dossier lib 
 
